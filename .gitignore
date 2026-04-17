@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+training_data/
+neu_data/
+extracted_images/
+models/*.h5
+.DS_Store
