@@ -17,3 +17,6 @@ A local AI project for detecting metal surface defects, trained on the NEU datas
    python app.py
    ```
    Access the live dashboard at `http://localhost:7860`.
+## Dataset
+The dataset is too large to host on GitHub.  
+Download it from Google Drive: [Click here](https://drive.google.com/open?id=18Xam1Jpy6S7r8mrpAPT4vzq25rQMNxhL)
