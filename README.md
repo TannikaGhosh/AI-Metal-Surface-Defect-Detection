@@ -1,6 +1,7 @@
 # AI-Metal-Surface-Defect-Detection
 
-A local AI project for detecting metal surface defects, trained on the NEU dataset and custom PDF images. Includes a real-time Gradio dashboard.
+A locally deployed AI system for metal surface defect detection, inspired by techniques used in medical image analysis. The model leverages a Convolutional Neural Network (CNN) trained on the NEU dataset and custom image sources to classify surfaces as **GOOD** or **DEFECTED**. It includes a real-time Gradio interface for instant predictions with confidence scores, enabling efficient automated quality inspection.
+
 
 ## Setup
 1. Create a virtual environment and activate it.
